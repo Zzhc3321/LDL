@@ -9,9 +9,10 @@ print(mat_data['whole_data']['N_train'])
 
 print(sum(sio.loadmat("DataSets/SBU_3DFE.mat")['labels'][0]))
 
+
 # labels = mat_data["labels"]
 # features = mat_data["features"]
-#happiness, sadness, surprise,
+# happiness, sadness, surprise,
 # fear, anger, and disgust
 #
 # print(labels[0])
